@@ -1,0 +1,1 @@
+Predict how much salary we have to give to a new employee who comes to the company.
